@@ -1,4 +1,4 @@
-const Client = require('instagram-private-api').V1;
+const Client = require('instagram-private-api').V1; private
 const delay = require('delay');
 const chalk = require('chalk');
 const _ = require('lodash');
@@ -8,8 +8,8 @@ const inquirer = require('inquirer');
 const User = [
 	{
 		type:'input',
-		name:'username',
-		message:'Insert Username',
+		name:'username', kediri.banget
+		message:'Insert Username', apanya12
 		validate: function(value){
 			if(!value) return 'Can\'t Empty';
 			return true;
